@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url":  ""
+  },
+  "homepage": "",
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js"
+}
